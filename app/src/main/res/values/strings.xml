@@ -1,0 +1,451 @@
+<resources>
+    <string name="app_name">Feni Computer Institute</string>
+
+
+    <string name="developer">About Developer</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="search">Search</string>
+    <string name="action_view">Welcome To FCI</string>
+    <string name="action_about">About Of FCI</string>
+    <string name="action_princ">Principal</string>
+    <string name="action_fculty">Faculty </string>
+    <string name="action_hostel">Hostels</string>
+    <string name="action_activ">Activity</string>
+    <string name="action_cmap">Campus Map</string>
+    <string name="action_contuct">Contacts</string>
+    <string name="action_result">Result</string>
+    <string name="action_dev">About Developer</string>
+    <string name="action_dnt">Department Of DNT</string>
+    <string name="action_cst">Department Of CST</string>
+    <string name="action_rs">RS Techers</string>
+    <string name="action_boy">FCI Boys hostel</string>
+    <string name="action_girl">FCI Girls Hostel</string>
+    <string name="action_isc">Institute Stage Compition</string>
+    <string name="action_library">Library</string>
+    <string name="action_scout">FCI Rover Scout</string>
+    <string name="action_blod">FCI Blood Donation</string>
+    <string name="action_clubs">Club Of FCI</string>
+
+    <!--About  FCI -->
+
+     <string name="overview">
+        FCI The First Computer institute of Bangladesh And Member Of APEC.\r\n
+        Its The Most popular institute of Feni And Its also popular for
+        its beautiful Campus no smoke,no politics.FCI has a beautiful campus with
+        an administrative building, an academic building, a boys’ hostel and a girls’
+         hostel in 8096 sq. meter area.Its a politics free institution.\n
+ 		FCI is the best institute of BTEB for its board result.FCI was established
+ 		in 2003 With a view to convert the vast population into skilled and employable
+ 		human resources and to meet
+		the increasing demand of student for Computer infromation and Communication Technology (ICT).
+		FENI COMPUTER INSTITUTE is the countrys first ever institute
+		at the government level for expansion of ICT education. The foundation of this institution
+		was laid by our Honorable Prime Minister BEGUM KHALEDA ZIA on Tuesday, October 06, 2003
+		and study Curriculam Activite Started form 2005 under BTEB in 4 years \n
+
+		Diploma-in-Engineering program in 2 Departments.\r\n
+		1. Computer Science And Technology (CST) \r\n
+		2. Data Telecommunication And Networking (DNT).in which DNT is totally new in Bangladesh.\r\n\n
+
+		 Every Year students from all over the Bangladesh explode into FCI for admission \r\n
+		 because of its reputation made by only in a year. The just established FCI got \r\n
+		 Accreditation Certificate from (APACC).\r\n
+     </string>
+
+     <string name="mision">
+         1. To Provide quality education and training.\r\n
+		 2.	To create skilled Mid Level Professional Engineer.\r\n
+		 3.	To reduce digital divide between urban and rural people through ICT education and training.\r\n
+		 4.	To extend support to the industry in the field of ICT.\r\n
+		 5. To provide employable skilled manpower for the country as well as abroad in the field of ICT.\r\n
+		 6. To act a leading institute in the field of ICT.\r\n
+     </string>
+
+    <!--Principal  -->
+     <string name="principal">
+  	The Diploma holders are most sought after these days and they\r\n
+  	are quickly employed in any industry. We, at FCI, take every care to meet the level of aspirations \r\n
+  	of all students by providing best physical and academic  infrastructure needed to make them competent technical\r\n
+   	professionals.We
+	have different teacher for every
+	subject. Our quality faculty adds value to our best\r\n
+  	endeavour in providing technical trainings to our students \r\n
+  	in the interest of all the students.We have very high skilled and qualified teachers and teaching staff with
+   	attractive academic carrier.The standard of the institution is greatly measured by the qualification of the faculty members and staff.
+	This institution maintains high ranking faculty members in terms of their academic qualifications, experience and professional
+	competence. It maintains an effective system of recruiting, maintaining and developing an adequate number of highly qualified
+	and appropriate faculty members and staff.
+
+	</string>
+
+     <string name="contuct">
+        Mailing Address: \n
+        Feni Computer Institute\r\n
+        P.O:- DTM,New Ranir Hat,\r\n\n
+        Feni-3900,\r\n\n
+        Bangladesh\r\n\n
+
+        TelePhone : 0088-0331-61888\r\n\n
+
+		Fax: 0088-0331-6188 \r\n\n
+
+		E-mail:fci_bd@yahoo.com\r\n\n
+
+		Website:www.fcibd.net
+
+
+    </string>
+    <!-- Faculty -->
+
+    <!--Department Of DNT  -->
+
+    <string name="ma">
+        Name: MOHAMMAD ABDULLA AL MAMUN.\r\n\n
+
+        Position: Instructor  Head Of DNT\n
+        Mobile NO: 01818591793\n
+        E-mail: cse9th@yahoo.com\n
+
+    </string>
+    <string name="sm">
+        Name: Sayed Mahbub Alam\r\n\n
+
+        Position: Junior Instructor Of DNT\n
+        Mobile NO: 01849307471\n
+        E-mail: symahbubduet@yahoo.com\n
+
+    </string>
+
+    <string name="hl">
+        Name: MD.Helal Uddin\r\n\n
+
+        Position: Instructor(Tech) DNT \n
+        Mobile NO: 01815645223\n
+        E-mail: \n
+
+    </string>
+
+    <string name="hr">
+        Name: MD.Harun-ur-Roshid\r\n\n
+
+        Position: Instructor(Tech) DNT\n
+        Mobile NO: 01719552993\n
+        E-mail: \n
+
+    </string>
+
+    <string name="sz">
+        Name: MD.Sazzad Arefin \r\n\n
+
+        Position: Instructor(Tech) DNT\n
+        Mobile NO: 01771207440\n
+        E-mail: \n
+
+    </string>
+
+    <string name="nn">
+        Name: Nazmun Nahar Munni\r\n\n
+
+        Position: Instructor(Tech) DNT\n
+        Mobile NO: 01740614292\n
+        E-mail: \n
+
+    </string>
+
+    <string name="tb">
+        Name: Tasnuba Begum \r\n\n
+
+        Position: Instructor(Tech) DNT\n
+        Mobile NO: 01838599437\n
+        E-mail: \n
+
+    </string>
+
+    <string name="ni">
+        Name: Mubarah Akter Nira\r\n\n
+
+        Position: Instructor(Tech) DNT\n
+        Mobile NO: 01828067490\n
+        E-mail: \n
+
+    </string>
+
+    <!--Department Of CST  -->
+
+    <string name="at">
+        Name: MOHAMMAD ATIQUL ISLAM \r\n\n
+
+        Position: Instructor  Head Of CST\n
+        Mobile NO: +880 1716 067885\n
+        E-mail: atiq_duet@yahoo.com\n
+
+    </string>
+    <string name="af">
+        Name: Afroja Joynob\r\n\n
+
+        Position: Junior Instructor Of CST\n
+        Mobile NO: 01711132353\n
+        E-mail: \n
+
+    </string>
+    <string name="ss">
+        Name: MD.Abdus Sobhan Shamim \r\n\n
+
+        Position: Instructor(Tech) CST\n
+        Mobile NO: 01838599437\n
+        E-mail: \n
+
+    </string>
+    <string name="nh">
+        Name: MD.Nokibul HasaN \r\n\n
+
+        Position: Instructor(Tech) CST\n
+        Mobile NO: 01710020761\n
+        E-mail: \n
+
+    </string>
+    <string name="ri">
+        Name: MD.Rofiqul Islam  \r\n\n
+
+        Position: Instructor(Tech) CST\n
+        Mobile NO: 01710087845\n
+        E-mail: \n
+
+    </string>
+    <string name="mi">
+        Name: MD.Mujahidul Islam  \r\n\n
+
+        Position: Instructor(Tech) CST\n
+        Mobile NO: 01762992719\n
+        E-mail: \n
+
+    </string>
+
+    <!-- RS Techers -->
+
+     <string name="gias">
+        Name: MD.Gias Uddin\r\n\n
+
+        Position:Junior Instructor Non-Tech(Math)\n
+        Mobile NO:01819606121\n
+        E-mail: \n
+
+    </string>
+    <string name="heda">
+        Name: MD.Hedaetul Islam\r\n\n
+
+        Position: Junior Instructor Non-Tech(Physics)\n
+        Mobile NO: 01719303001\n
+        E-mail: \n
+
+    </string>
+    <string name="sha">
+        Name: MD.Shanewaz Khan\r\n\n
+
+        Position: Junior Instructor Non-Tech(Chemistry)\n
+        Mobile NO:01819606121\n
+        E-mail: \n
+
+    </string>
+
+    <string name="nha">
+
+        Name:Nahida Akter\r\n\n
+
+        Position: Junior Instructor Non-Tech(English)\n
+        Mobile NO: 01937676576\n
+        E-mail: \n
+
+
+    </string>
+
+    <string name="du">
+        Name: MD.Dulal hossain\r\n\n
+
+        Position: Junior Instructor Non-Tech(Bangla)\n
+        Mobile NO: 01724363463\n
+        E-mail: \n
+
+    </string>
+
+    <string name="fa">
+        Name: Farhana Jahan Chodhury\r\n\n
+
+        Position: Draftsman\n
+        Mobile NO: 01197238174\n
+        E-mail: \n
+
+    </string>
+
+    <string name="sa">
+        Name: MD.Sanowar hossain\r\n\n
+
+        Position: Junior Instructor Non-Tech(Math)\n
+        Mobile NO: 01737463844\n
+        E-mail: \n
+
+    </string>
+
+    <string name="ar">
+        Name: MD.Arifur Rahman\r\n\n
+
+        Position: Junior Instructor Non-Tech(Math)\n
+        Mobile NO: 01816418552\n
+        E-mail: \n
+
+    </string>
+
+    <string name="mu">
+        Name: MD.Mujider Rahman\r\n\n\n
+
+        Position:Junior Instructor Non-Tech(Physics)\n
+        Mobile NO: 01843492677\n
+        E-mail: \n
+
+    </string>
+    <string name="ra">
+        Name: Rajib Kumar Gosh\r\n\n
+
+        Position:Junior Instructor Non-Tech\n
+        Mobile NO: 01767911281\n
+        E-mail: \n
+
+    </string>
+
+    <!-- Hostel -->
+    <string name="boys_hostel">
+
+        Male  hostel has two large spacious dinning
+        hall,which can accommodate 85 for male  students\r\n
+        at a time and has sufficient facilities required for \n
+        cooking and service of food, stocking of dry and fresh provisions. \n
+
+         The Male  hostel functions under the supervision of a member
+         of the teaching staff (faculty member). Students are also associated\n
+         with the management of the mess. The committee is presided over by the \n
+         Principal and includes Hostel Super and student representatives.\n
+         They make every effort to provide a balanced and nutritious  extra
+         messing if required in special cases.  The students have to take three\n
+         times meal in the dining hall.On various occasions formal dinner is arranged \n
+		(e.g. farewell, term end dinner or a dinner in honour of a special\n
+ 		guest visiting the institute) where the Principal and faculty members are \n
+ 		invited with spouses\n\n
+.		The routine meals of the students are:\n\n
+
+		1. Breakfast (at around 8 am)\n\n
+		2. Lunch ( after academic hours, at around 1.15 pm)\n\n
+		3. Dinner ( at around 8 pm, between evening and night preparation classes)\n\n
+
+        </string>
+
+    <string name="girls_hostel">
+
+        Female hostel has one large spacious dinning
+        hall,which can accommodate  40 for female students
+        at a time and has sufficient facilities required for cooking and service of food, stocking of dry and fresh provisions. \n
+
+         The  female hostel functions under the supervision of a member
+         of the teaching staff (faculty member). Students are also associated\n
+         with the management of the mess. The committee is presided over by the \n
+         Principal and includes Hostel Super and student representatives.\n
+         They make every effort to provide a balanced and nutritious  extra
+         messing if required in special cases.  The students have to take three\n
+         times meal in the dining hall.On various occasions formal dinner is arranged \n
+		(e.g. farewell, term end dinner or a dinner in honour of a special\n
+ 		guest visiting the institute) where the Principal and faculty members are \n
+ 		invited with spouses\n\n
+.		The routine meals of the students are:\n\n
+
+		1.Breakfast (at around 8 am)\n\n
+		2.Lunch ( after academic hours, at around 1.15 pm)\n\n
+		3.Dinner ( at around 8 pm, between evening and night preparation classes)\n\n
+
+    </string>
+
+    <!-- Blood Donation -->
+
+    <string name="Why_give_blood">
+        The student of FCI blood
+		donation organization has observed important
+		responsibility to gave blood independently to
+		blood seekers.
+
+    </string>
+
+    <!-- Clubs -->
+    <string name="club">
+        * Bengali Literary and Cultural Society\n\n
+		* English Literary and Cultural Society\n\n
+		* Music and Dance Club\n\n
+		* Computer Programming Club\n\n
+		* ICT Club\n\n
+    </string>
+
+    <!-- ISC -->
+    <string name="isc">
+        * 	Qirat Competition\n\n
+		*	Extempore Speech Competition(Bengali and English)\n\n
+		*	Debate (Bengali and English)\n\n
+		*	Solo Acting Competition (Bengali and English)\n\n
+		*	Parliamentary Debate (English)\n\n
+		*	Song Competition\n\n
+		*	Dance Competition\n\n
+		*	Recitation (Bangla and English)\n\n
+		*	General Knowledge and Quiz Competition \n\n
+		*	Spelling Competition (Bangla and English)\n\n
+		*	Painting Competition \n\n
+    </string>
+
+    <!-- Library -->
+
+	<string name="library">
+
+		The library in the institute is
+		also a very big one.
+		It has over 50.000 books in it.
+		It is on the first floor of our institute .
+		his keeps the library calm and quiet
+		and the noise of the students does not reach here.
+		It has a reading
+		room and one room for the librarian and the staff
+		of the library.
+
+		Different sections in the hall arc meant for different
+		kinds of books which are placed on iron
+		shelves.
+		One section is meant for languages.
+		one for
+		literature.
+		one for humanities.
+		one for sciences,one for programming,one for networking
+		for sports and so on.
+
+		All kinds of books are available in our school
+		library such as books on programming,networking, literature, history,
+		civics.
+		mathematics. physics. chemistry,
+		sports, magic, geography, zoology etc.
+
+
+	</string>
+
+	<string name="scout">
+
+		The rovers of FCI has
+		bought responsibility and honour for institute
+		and country in many times.
+	</string>
+    <string name="details_developer">
+        Samad Talukdar
+        FCI 8th batch\n
+	    Dept.of DNT\n
+	    Contact:01967612240\n
+	    E-mail:samadtalukdar6@gmail.com\n
+        facebook:Samurai.X.008\n
+
+    </string>
+
+
+
+</resources>

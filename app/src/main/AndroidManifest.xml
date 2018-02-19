@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.samadtalukdar.fenicomputerinstitute" >
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+
+        <activity android:name=".Second_activity" android:label="@string/action_view"></activity>
+        <activity android:name=".About_fci"
+            android:label="@string/action_about"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity">
+
+        </activity>
+
+        <activity android:name=".Principal"
+            android:label="@string/action_princ"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity">
+
+        </activity>
+
+        <activity android:name=".Faculty_info"
+            android:label="@string/action_fculty"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Faculty_dnt"
+            android:label="@string/action_dnt"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Faculty_info"></activity>
+
+        <activity android:name=".Faculty_cst"
+            android:label="@string/action_cst"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Faculty_info"></activity>
+
+        <activity android:name=".Faculty_rs"
+            android:label="@string/action_rs"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Faculty_info"></activity>
+
+        <activity android:name=".Hostels"
+            android:label="@string/action_hostel"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Hostel_boys"
+            android:label="@string/action_boy"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Hostels"></activity>
+
+        <activity android:name=".Hostel_girls"
+            android:label="@string/action_girl"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Hostels"></activity>
+
+        <activity android:name=".Activites"
+            android:label="@string/action_activ"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Activites_blood"
+            android:label="@string/action_blod"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Activites"></activity>
+
+        <activity android:name=".Activites_club"
+            android:label="@string/action_clubs"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Activites"></activity>
+
+
+        <activity android:name=".Activites_librery"
+            android:label="@string/action_library"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Activites"></activity>
+
+        <activity android:name=".Activites_isc"
+            android:label="@string/action_isc"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Activites"></activity>
+
+        <activity android:name=".Activties_scout"
+            android:label="@string/action_scout"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Activites"></activity>
+
+        <activity android:name=".Result"
+            android:label="@string/action_result"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Contact"
+            android:label="@string/action_contuct"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Developer_info"
+            android:label="@string/action_dev"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"></activity>
+
+        <activity android:name=".Campus_map"
+            android:label="@string/action_cmap"
+            android:parentActivityName="com.samadtalukdar.fenicomputerinstitute.Second_activity"/>
+
+
+    </application>
+
+</manifest>

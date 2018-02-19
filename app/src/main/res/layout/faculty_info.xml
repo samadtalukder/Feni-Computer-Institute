@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/back"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="25dp"
+        android:background="@drawable/btn_design"
+        android:textColor="#ffffff"
+        android:text="Deapartment Of DNT"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/dnt" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="25dp"
+        android:background="@drawable/btn_design"
+        android:textColor="#ffffff"
+        android:text="Deapartment Of CST"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:id="@+id/cst" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="25dp"
+        android:background="@drawable/btn_design"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="RS "
+        android:id="@+id/rs" />
+
+
+</LinearLayout>

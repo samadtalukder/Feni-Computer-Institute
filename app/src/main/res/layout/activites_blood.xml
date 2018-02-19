@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="20dp"
+            android:scaleType="center"
+            android:src="@drawable/blood" />
+        <View
+            android:id="@+id/view"
+            android:layout_width="wrap_content"
+            android:background="#000"
+            android:layout_height="3dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:text="FCI Blood Donation"
+            android:layout_margin="13dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+
+            />
+        <View
+            android:id="@+id/view3"
+            android:layout_width="wrap_content"
+            android:background="#000"
+            android:layout_height="3dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:textColor="#000000"
+            android:text="@string/Why_give_blood"
+            android:padding="15dp"
+            android:lineSpacingExtra="8dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>

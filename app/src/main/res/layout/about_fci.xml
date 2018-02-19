@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/back">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+
+
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:padding="20dp"
+            android:layout_margin="20dp"
+            android:scaleType="center"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:src="@drawable/hs" />
+
+
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp"
+            android:layout_marginTop="20dp" />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="OVERVIEW OF FENI COMPUTER INSTITUTE"
+            android:layout_margin="10dp"
+            android:textStyle="bold"
+            android:textColor="#5f0020"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:id="@+id/view3"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:lineSpacingExtra="10dp"
+            android:padding="7dp"
+            android:layout_margin="20dp"
+            android:background="@drawable/design"
+            android:text="@string/overview"
+            android:textSize="20sp" />
+
+
+
+
+        <View
+            android:id="@+id/view6"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:text="OUR VISION"
+            android:padding="15dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:id="@+id/view7"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:textColor="#000000"
+            android:text="To Be The Best Computer Institute In The World Providing Quality Education And Training"
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"  />
+
+
+        <View
+            android:id="@+id/view8"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:text="OUR MISION"
+            android:padding="15dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:id="@+id/view9"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_marginTop="5dp"
+            android:text="@string/mision"
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:layout_margin="20dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"  />
+
+
+
+        <View
+            android:id="@+id/view110"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:text="OUR ACHIEVEMENT"
+            android:layout_margin="10dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:id="@+id/view11"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="20dp"
+            android:text="Asian Pacific for Accreditation AND Counseling (APACC) certified in 2008"
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"  />
+
+
+        <View
+            android:id="@+id/view10"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp"
+            android:layout_marginTop="5dp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:text="ABOUT US"
+            android:layout_margin="10dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        <View
+            android:id="@+id/view114"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="20dp"
+            android:text="We provide learning in Diploma in Computer Science and Technology (4 years), Diploma in Data Telecommunication and networking Technology ( 4 years), Internet,e-learning, Professional Networking, Professional Programming.We have modern educational Environment.We have up-to-date khowledge sharing resources."
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"
+            />
+
+        <View
+            android:id="@+id/view15"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:layout_marginTop="5dp"
+            android:text="Products"
+            android:padding="10dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+
+            />
+
+        <View
+            android:id="@+id/view16"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="20dp"
+            android:text="After successfully passing from FCI, most of the students are working on well-established software development companies, telecommunication companies or mobile operator companies of Bangladesh and as well as abroad (Middle-East Countries). Few Students of FCI has got chance in Dhaka University of Engineering Technology (DUET) and others are studying in well known private universities. Some Students are studying in Indian and Malaysian Universities after completing their diploma engineering courses from FCI. "
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"
+            />
+
+
+        <View
+            android:id="@+id/view14"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#5f0020"
+            android:layout_marginTop="5dp"
+            android:text="General Information"
+            android:padding="10dp"
+            android:fontFamily="arial"
+            android:textStyle="bold"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+
+            />
+
+        <View
+            android:id="@+id/view17"
+            android:layout_width="wrap_content"
+            android:background="#000000"
+            android:layout_height="2dp" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#000000"
+            android:layout_margin="20dp"
+            android:text="Basically it’s a polytechnic institute and students get a 4 year diploma degree while they could get admit after passing Secondary School Certificate Examination/O Level. Thus it’s a polytechnic institute categorized institute but it’s giving better facilities to students that’s why it’s the number one Diploma Engineering Institute in Bangladesh after its establishment. From 2006, FCI Students are attending in Board Exams of BTEB and from that to till this institute is the top institute in average of passed students. From Its establishment, most of the top CGPA holders of BTEB Diploma-in-Engineering courses are passing from this institute. One of FCI Student of 2006-07 Batch has made a highest CGPA record in BTEB."
+            android:padding="7dp"
+            android:fontFamily="arial"
+            android:lineSpacingExtra="8dp"
+            android:textSize="20sp"
+            android:background="@drawable/design"
+            />
+    </LinearLayout>
+
+
+
+</ScrollView>
